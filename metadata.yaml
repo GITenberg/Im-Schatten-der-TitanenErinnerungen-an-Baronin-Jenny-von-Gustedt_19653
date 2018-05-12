@@ -19,6 +19,8 @@ creator:
     - http://de.wikipedia.org/wiki/Lily_Braun
     - http://en.wikipedia.org/wiki/Lily_Braun
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19653#Im-Schatten-der-TitanenErinnerungen-an-Baronin-Jenny-von-Gustedt
 gutenberg_bookshelf: DE Prosa
 gutenberg_issued: '2006-10-28'
 gutenberg_type: Text
